@@ -1,0 +1,16 @@
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/Cart.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/dao/CustomerDaoImpl.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/User.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/SalesOrder.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/CartItem.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/Authorities.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/Customer.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/controller/RegistrationController.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/Product.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/SecurityConfig.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/dao/CustomerDao.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/service/CustomerService.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/model/ShippingAddress.java
+/Users/johnson/laioffer/onlineShop/src/main/java/onlineShop/service/CustomerServiceImpl.java
